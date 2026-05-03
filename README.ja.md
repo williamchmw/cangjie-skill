@@ -80,6 +80,7 @@ RIA-TV++ の名前の由来：
 | [copywriters-handbook-skill](https://github.com/kangarooking/copywriters-handbook-skill) | 『The Copywriter's Handbook』 | 12 |
 | [contagious-skill](https://github.com/kangarooking/contagious-skill) | 『Contagious』 | 15 |
 | [influence-skill](https://github.com/kangarooking/influence-skill) | 『Influence』 | 12 |
+| [1000-true-fans-skill](https://github.com/kangarooking/1000-true-fans-skill) | 『1000 True Fans』 | 13 |
 | [poor-charlies-almanack-skill](https://github.com/kangarooking/poor-charlies-almanack-skill) | 貧しきチャーリーの格言 | 12 |
 | [no-rules-rules-skill](https://github.com/kangarooking/no-rules-rules-skill) | No Rules Rules | 10 |
 | 黄帝内経・素問（本プロジェクト内） | 『黄帝内経・素問』 | 10 |
@@ -131,6 +132,7 @@ cangjie-skill はより大きなスキルエコシステムの一部です：
 - [Copywriters Handbook Skill](https://github.com/kangarooking/copywriters-handbook-skill) — 『The Copywriter's Handbook』から抽出した12個の販売コピー・見出し・ベネフィット変換スキル
 - [Contagious Skill](https://github.com/kangarooking/contagious-skill) — 『Contagious』から抽出した15個のSTEPPS伝播戦略・口コミ診断スキル
 - [Influence Skill](https://github.com/kangarooking/influence-skill) — 『Influence』から抽出した12個の説得心理・コンプライアンス機制・防御判断スキル
+- [1000 True Fans Skill](https://github.com/kangarooking/1000-true-fans-skill) — 『1000 True Fans』から抽出した13個の個人ブランド・真のファン育成・信頼ベース収益化スキル
 - Huangdi Neijing Suwen Skill（本プロジェクト内）— 『黄帝内経・素問』から抽出した10個の中医観察・調整スキル
 - Huangdi Neijing Lingshu Skill（本プロジェクト内）— 『黄帝内経・霊枢』から抽出した8個の心身調整・弁証スキル
 - [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 『第一性原理』から抽出した10個の公理化思考・破界イノベーション・組織刷新スキル
